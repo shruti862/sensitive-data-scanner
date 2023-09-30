@@ -1,0 +1,21 @@
+my phone number is 8707287507 and my username is 345@shruti
+my password is ss21710#
+ my token is eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+f47ac10b-58cc-4372-a567-0e02b2c3d479
+my openali key is 8c708acc2e5341d3a6f0b2cb4d6dda8d
+Sample Text File for Sensitive Data Testing
+
+Username: john.doe
+Password: p@ssw0rd123
+Phone Number: 123-456-7890
+OpenAI Key: api-key-1234567890
+Hexadecimal String: 8c708acc2e5341d3a6f0b2cb4d6dda8d
+
+Some random text without sensitive data.
+
+Email: john.doe@example.com
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
+ety-ihy-TY134
+Another password: mypassword#123
+
+Invalid data: 12345
